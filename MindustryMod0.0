@@ -1,7 +1,0 @@
-echo "# teste" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M master-main 
-git remote add origin https://github.com/SrOtaku/teste.git
- git push -u origin master-main

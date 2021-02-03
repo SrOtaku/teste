@@ -1,2 +1,0 @@
-# teste
-Um teste simples

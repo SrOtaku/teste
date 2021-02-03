@@ -1,9 +1,9 @@
 {
-  "name": "Meu Mod Teste",
-  "displayName": "Mod Teste",
-  "author": "RedGame69",
-  "description": "Um mod muito [red]simples, pra teste ;)",
-  "main":"torresimples",
-  "version": "0.5.teste",
-  "minGameVersion": 105,
+  name: "Meu Mod Teste",
+  displayName: "Mod Teste",
+  author: "RedGame69",
+  description: "Um mod muito simples, pra teste",
+  main:"torresimples",
+  version: "0.5.teste",
+  minGameVersion: 105
 }

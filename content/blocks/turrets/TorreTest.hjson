@@ -1,0 +1,43 @@
+{
+type: "ItemTurret",
+Name: "Torre Teste",
+purpose:"Simples",
+description: "Uma torre simples que fuciona com titânio ;)",
+ 
+ sizer: 1,
+  health: 250,
+  range:69,
+  reload: 8,
+  maxAmmo: 26,
+  rotatesSpeed: 6,
+  inaccuracy: 4,
+  
+ targetAir: "true",
+ targetGround: "true",
+ hasLiquids: "false",
+ hasItems: "true",
+ shots: 1,
+ recoilAmount: 2,
+ 
+   ammoType:{
+       titanium:{
+          type: "BasicBulletType",
+         
+          damage:18,
+          withd: 8,
+          hight: 12,
+          shootEffect: "shootSmall",
+          waverEffect: "shootSmall",
+          speed: 2.5,
+          lifetine: 35,
+          
+          
+     }
+   
+   }
+requeriments:[
+ cupper/75
+ lead/65
+]
+
+}

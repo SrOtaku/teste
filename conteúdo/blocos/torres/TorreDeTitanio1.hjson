@@ -2,7 +2,7 @@
 type: "ItemTurret",
 Name: "Torre Teste",
 purpose:"Simples",
-description: "Uma torre simples que fuciona com titânio ;)",
+description: "Uma torre simples que utilizar titânio como munição ;)",
  
  sizer: 1,
   health: 250,
@@ -29,7 +29,9 @@ description: "Uma torre simples que fuciona com titânio ;)",
           shootEffect: "shootSmall",
           waverEffect: "shootSmall",
           speed: 2.5,
-          lifetine: 35,
+          lifetime: 35,
+          backColor: ffffff
+          frontColor: ff0000
           
           
      }

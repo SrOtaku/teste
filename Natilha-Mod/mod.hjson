@@ -1,0 +1,10 @@
+{
+  name: "teslamod"
+  author: "[red]Red[blue]Game"
+  displayName: "[purple]Natilla01[red]Mod"
+  description: "Mod test.[green](Br Version)[white]Um mod simples."
+ 
+  version: "2.1.PROTOTYPE"
+  minGameVersion: 126
+  hidden: false
+}

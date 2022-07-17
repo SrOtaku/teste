@@ -8,7 +8,7 @@ Por isso decide aprender a fazer alguns mods básicos dos basiscos.
 <br>
  <p>
   Clica no <b>nosso</b> sumário de baixo.
-  - [X] Não
+  - [x] Não
  </p>
 </br>
 </details>

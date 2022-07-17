@@ -5,8 +5,7 @@ Só para testar alguma sintex se programar `README.md`
 
 - [x] não
 - [ ] sim
-[AQUI](http://javid.ddns.net/tModLoader/widget/widgetimage/HEROsMod.png)
-![AQUI](http://javid.ddns.net/tModLoader/widget/widgetimage/HEROsMod.png)
+[AQUI](https://images.app.goo.gl/UyCRyKdXAz7y4yKt7)
 
 <details><summary><b>Testando texto.</b></summary>
 <br>

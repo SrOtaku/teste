@@ -1,8 +1,7 @@
 # test
 Um teste simples eu ainda não sei muito sobre programação.
-Por isso decide aprender a fazer alguns mods básicos dos basiscos.
-              
-                  <b><center>Espero que gostem :')</center></b>
+Por isso decide aprender a fazer alguns mods básicos dos basisco.
+<b><center>Espero que gostem :')</center></b>
 
 - [x] não 
 

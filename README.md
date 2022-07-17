@@ -6,8 +6,7 @@ Só para testar alguma sintex se programar `README.md`
 - [x] não
 - [ ] sim
 
-Clique [aqui]
-(https://github.com/SrOtaku/teste/tree/master-main/github-pictures)
+Clique [aqui](https://github.com/SrOtaku/teste/tree/master-main/github-pictures)
 
 
 <details><summary><b>Testando texto.</b></summary>

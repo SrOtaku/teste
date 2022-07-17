@@ -2,7 +2,7 @@
 Um teste simples eu ainda não sei muito sobre programação.
 Por isso decide aprender a fazer alguns mods básicos dos basiscos.
               
-                  <c>Espero que gostem :')</c>
+                  <b><center>Espero que gostem :')</center></b>
 
 - [x] não 
 

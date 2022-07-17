@@ -4,7 +4,8 @@ Por isso decide aprender a fazer alguns mods básicos dos basisco.
 
   Espero que se divirtam-se.
 
---- - [x] não ---
+- [x] não
+- [] sim
 
 <details><summary><b>Testando texto.</b></summary>
 <br>

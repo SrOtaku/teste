@@ -6,7 +6,7 @@ Por isso decide aprender a fazer alguns mods básicos dos basiscos.
 <details><summary><b>Testando</b></summary>
   <br>
   <p>
-    <img src="https://user-images.github-pictures/download.jpeg" alt="" width="200" height="200" align="center">
+    <img src="https://github.com/SrOtaku/teste/blob/master-main/github-pictures/download.jpeg" alt="" width="200" height="200" align="center">
     <br>
    Será que funciona ?
   </p>

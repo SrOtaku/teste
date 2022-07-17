@@ -1,9 +1,10 @@
 # test
 Um teste simples eu ainda não sei muito sobre programação.
 Por isso decide aprender a fazer alguns mods básicos dos basisco.
-<center>Espero que gostem :')</center>
 
-- [x] não 
+  Espero que se divirtam-se.
+
+--- - [x] não 
 
 <details><summary><b>Testando texto.</b></summary>
 <br>

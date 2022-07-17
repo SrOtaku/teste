@@ -4,7 +4,7 @@ Por isso decide aprender a fazer alguns mods básicos dos basiscos.
               
                   Espero que gostem :')
 
-<details><summary><h4>Testando texto.</h4></summary>
+<details><summary><b>Testando texto.</b></summary>
 <br>
  <p>
   Clica no <pt>nosso</pt> sumário de baixo.
@@ -12,7 +12,7 @@ Por isso decide aprender a fazer alguns mods básicos dos basiscos.
 </br>
 </details>
 
-<details><summary><h4>Testando</h4></summary>
+<details><summary><b>Testando</b></summary>
   <br>
   <p>
     <img src="https://github.com/SrOtaku/teste/blob/master-main/github-pictures/download.jpeg" alt="" width="200" height="200" align="center">

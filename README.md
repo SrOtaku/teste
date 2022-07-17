@@ -7,7 +7,7 @@ Por isso decide aprender a fazer alguns mods básicos dos basiscos.
 <details><summary><b>Testando texto.</b></summary>
 <br>
  <p>
-  Clica no <pt>nosso</pt> sumário de baixo.
+  Clica no <b>nosso</b> sumário de baixo.
  </p>
 </br>
 </details>

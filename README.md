@@ -19,8 +19,9 @@ Só para testar alguma sintex se programar `README.md`
     <img src="https://github.com/SrOtaku/teste/blob/master-main/github-pictures/download.jpeg" alt="" width="200" height="200" align="center">
     <br>
    Olha o meme comunista
-   [site](https://github.com/SrOtaku/teste/blob/master-main/github-pictures/download.jpeg)
-  </p>
+[site](https://github.com/SrOtaku/teste/blob/master-main/github-pictures/download.jpeg]
+   </p>
+ </b>
 </details>
 
 Clique [aqui também.](https://github.com/SrOtaku/teste/tree/master-main/github-pictures)

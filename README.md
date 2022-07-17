@@ -1,5 +1,5 @@
 # test
-Só para testar alguma sintex se programar `README.md`
+Só para testar alguma sintex do`README.md`
 
   Espero que se divirtam-se.
 

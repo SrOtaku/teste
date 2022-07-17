@@ -12,7 +12,7 @@ Por isso decide aprender a fazer alguns mods básicos dos basiscos.
 </br>
 </details>
 
-<details><summary><b>Testando</b></summary>
+<details><summary><b>. . .</b></summary>
   <br>
   <p>
     <img src="https://github.com/SrOtaku/teste/blob/master-main/github-pictures/download.jpeg" alt="" width="200" height="200" align="center">

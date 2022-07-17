@@ -5,7 +5,6 @@ Só para testar alguma sintex se programar `README.md`
 
 - [x] não
 - [ ] sim
-[AQUI](https://images.app.goo.gl/UyCRyKdXAz7y4yKt7)
 
 <details><summary><b>Testando texto.</b></summary>
 <br>
@@ -23,4 +22,4 @@ Só para testar alguma sintex se programar `README.md`
    Olha o meme comunista
   </p>
 </details>
-[![Aque](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmqLDflwt8aAbfFJC7x3GpkT88hjGB3-Jm5w&usqp=CAU)]
+[AQUI](https://images.app.goo.gl/UyCRyKdXAz7y4yKt7)

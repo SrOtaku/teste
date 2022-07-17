@@ -19,7 +19,7 @@ Só para testar alguma sintex se programar `README.md`
     <img src="https://github.com/SrOtaku/teste/blob/master-main/github-pictures/download.jpeg" alt="" width="200" height="200" align="center">
     <br>
    Olha o meme comunista
-   [site](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com)
+   [site](https://github.com/SrOtaku/teste/blob/master-main/github-pictures/download.jpeg)
   </p>
 </details>
 

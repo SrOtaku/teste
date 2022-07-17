@@ -19,6 +19,7 @@ Só para testar alguma sintex se programar `README.md`
   <p>
     <img src="https://github.com/SrOtaku/teste/blob/master-main/github-pictures/download.jpeg" alt="" width="200" height="200" align="center">
     <br>
-   Olha o meme comunista [aque](aoq)
+   Olha o meme comunista
   </p>
 </details>
+[Aque](8@)

@@ -4,11 +4,12 @@ Por isso decide aprender a fazer alguns mods básicos dos basiscos.
               
                   <c>Espero que gostem :')</c>
 
+- [x] não 
+
 <details><summary><b>Testando texto.</b></summary>
 <br>
  <p>
   Clica no <b>nosso</b> sumário de baixo.
-  - [x] Não
  </p>
 </br>
 </details>
